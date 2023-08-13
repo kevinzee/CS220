@@ -1,0 +1,30 @@
+/Users/kevinzielinski/PycharmProjects/pythonProject/venv/bin/python /Users/kevinzielinski/PycharmProjects/pythonProject/assignment2.py
+Domain =  {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
+Codomain =  {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
+Square function:  Is total = False Is injection = True Is surjection = False Is bijection = False
+Identity function:  Is total = True Is injection = True Is surjection = True Is bijection = True
+Decrement function:  Is total = False Is injection = True Is surjection = False Is bijection = False
+Increment function:  Is total = False Is injection = True Is surjection = False Is bijection = False
+Half function:  Is total = True Is injection = False Is surjection = False Is bijection = False
+
+x =  {'abcd', 'abc', 'ab', 'a'}
+y =  {'dddd', 'ccc', 'bb', 'a'}
+union:  {'abcd', 'abc', 'ab', 'a', 'ccc', 'bb', 'dddd'}
+intersection:  {'a'}
+difference:  {'abcd', 'abc', 'ab'}
+symmetric difference:  {'abcd', 'abc', 'ab', 'ccc', 'bb', 'dddd'}
+cartesian product:  {('abcd', 'dddd'), ('abcd', 'ccc'), ('abcd', 'bb'), ('abcd', 'a'), ('abc', 'dddd'), ('abc', 'ccc'), ('abc', 'bb'), ('abc', 'a'), ('ab', 'dddd'), ('ab', 'ccc'), ('ab', 'bb'), ('ab', 'a'), ('a', 'dddd'), ('a', 'ccc'), ('a', 'bb'), ('a', 'a')}
+power set:  {{'abc', 'ab'}, {'a',}, {'abcd', 'abc', 'a'}, {'abc',}, {'ab',}, {'abcd', 'abc', 'ab'}, {'ab', 'a'}, {'abcd', 'ab', 'a'}, {'abcd', 'abc', 'ab', 'a'}, {'abcd',}, {'abcd', 'abc'}, {'abc', 'ab', 'a'}, {'abcd', 'a'}, {}, {'abc', 'a'}, {'abcd', 'ab'}}
+
+Geometric series 1679615 1679615.8 False
+Arithmetic series 208 208.0 True
+Sum of counting numbers 55 55.0 True
+Sum of squares 385 385.0 True
+Sum of squares 385 385.0 True
+Sum of cubes 3025 3025.0 True
+
+Binary Numbers are:  ['0.010011', '0.101010', '0.111000', '0.000111', '0.111111', '0.111000']
+New Number is:  0.110001
+
+
+Process finished with exit code 0

@@ -1,0 +1,9 @@
+/Users/kevinzielinski/PycharmProjects/pythonProject/venv/bin/python /Users/kevinzielinski/PycharmProjects/pythonProject/assignment4.py
+                             10        100       1000      10000
+native_search             0.015974  0.044823  0.312090  2.858639
+linear_search             0.038862  0.098944  0.854969  8.912086
+binary_search_iterative   0.033140  0.056028  0.091076  0.142813
+binary_search_recursive   0.045300  0.065565  0.098467  0.142336
+randomized_binary_search  0.137091  0.283241  0.453711  0.684977
+
+Process finished with exit code 0

@@ -1,0 +1,99 @@
+/Users/kevinzielinski/PycharmProjects/pythonProject/venv/bin/python /Users/kevinzielinski/PycharmProjects/pythonProject/assignment1.py
+Name: f0 "(p or q) and r"
+       p      q      r     f0
+0  False  False  False  False
+1  False  False   True  False
+2  False   True  False  False
+3  False   True   True   True
+4   True  False  False  False
+5   True  False   True   True
+6   True   True  False  False
+7   True   True   True   True
+Rows: 8 Cols: 4 Vars: 3 Type: Contingency
+
+Name: f1 "p and not p"
+       p     f1
+0  False  False
+1   True  False
+Rows: 2 Cols: 2 Vars: 1 Type: Contradiction
+
+Name: f2 "p or not p"
+       p    f2
+0  False  True
+1   True  True
+Rows: 2 Cols: 2 Vars: 1 Type: Tautology
+
+Name: f3 "not p and impl(p, q)"
+       p      q     f3
+0  False  False   True
+1  False   True   True
+2   True  False  False
+3   True   True  False
+Rows: 4 Cols: 3 Vars: 2 Type: Contingency
+
+Name: f4 "impl(p, q) or impl(q, p)"
+       p      q    f4
+0  False  False  True
+1  False   True  True
+2   True  False  True
+3   True   True  True
+Rows: 4 Cols: 3 Vars: 2 Type: Tautology
+
+Name: f5 "(p or q) or (not p and not q)"
+       p      q    f5
+0  False  False  True
+1  False   True  True
+2   True  False  True
+3   True   True  True
+Rows: 4 Cols: 3 Vars: 2 Type: Tautology
+
+Name: f6 "(p or q) and (not p and not q)"
+       p      q     f6
+0  False  False  False
+1  False   True  False
+2   True  False  False
+3   True   True  False
+Rows: 4 Cols: 3 Vars: 2 Type: Contradiction
+
+Name: f7 "(impl(p, q)) and (impl(q, r))"
+       p      q      r     f7
+0  False  False  False   True
+1  False  False   True   True
+2  False   True  False  False
+3  False   True   True   True
+4   True  False  False  False
+5   True  False   True  False
+6   True   True  False  False
+7   True   True   True   True
+Rows: 8 Cols: 4 Vars: 3 Type: Contingency
+
+Name: f8 "impl((impl(p, q)) and (impl(q, r)), impl(p, r))"
+       p      q      r    f8
+0  False  False  False  True
+1  False  False   True  True
+2  False   True  False  True
+3  False   True   True  True
+4   True  False  False  True
+5   True  False   True  True
+6   True   True  False  True
+7   True   True   True  True
+Rows: 8 Cols: 4 Vars: 3 Type: Tautology
+
+Name: f9 "bi_impl(not (p or q), (not p and not q))"
+       p      q    f9
+0  False  False  True
+1  False   True  True
+2   True  False  True
+3   True   True  True
+Rows: 4 Cols: 3 Vars: 2 Type: Tautology
+
+Name: f10 "bi_impl(not (p and q), (not p or not q))"
+       p      q   f10
+0  False  False  True
+1  False   True  True
+2   True  False  True
+3   True   True  True
+Rows: 4 Cols: 3 Vars: 2 Type: Tautology
+
+
+Process finished with exit code 0

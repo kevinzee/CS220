@@ -1,0 +1,48 @@
+/Users/kevinzielinski/PycharmProjects/pythonProject/venv/bin/python /Users/kevinzielinski/PycharmProjects/pythonProject/assignment3.py
+Postage for amount: 41 is [9, 1]
+Postage for amount: 40 is [10, 0]
+Postage for amount: 13 is [2, 1]
+Postage for amount: 93 is [22, 1]
+Postage for amount: 96 is [24, 0]
+Postage for amount: 76 is [19, 0]
+Postage for amount: 50 is [10, 2]
+Postage for amount: 66 is [14, 2]
+Postage for amount: 69 is [16, 1]
+Postage for amount: 37 is [8, 1]
+
+Fibonacci 1 1.0 True
+Fibonacci 2 2.0 True
+Fibonacci 3 3.0 True
+Fibonacci 5 5.0 True
+Fibonacci 8 8.0 True
+Fibonacci 13 13.0 True
+Fibonacci 21 21.0 True
+Fibonacci 34 34.0 True
+Fibonacci 55 55.0 True
+
+Fibonacci 2.0 2.0 True
+Fibonacci 4.0 4.0 True
+Fibonacci 7.0 7.0 True
+Fibonacci 12.0 12.0 True
+Fibonacci 20.0 20.0 True
+Fibonacci 33.0 33.0 True
+Fibonacci 54.0 54.0 True
+Fibonacci 88.0 88.0 True
+Fibonacci 143.0 143.0 True
+
+GCD of 84 and 38 2 2 True
+GCD of 82 and 18 2 2 True
+GCD of 17 and 87 1 1 True
+GCD of 70 and 20 10 10 True
+GCD of 52 and 37 1 1 True
+GCD of 55 and 90 5 5 True
+GCD of 2 and 37 1 1 True
+GCD of 68 and 43 1 1 True
+GCD of 15 and 71 1 1 True
+GCD of 10 and 61 1 1 True
+
+['', 'a', 'aa', 'aaa', 'aaaa', 'aaaaa', 'aaaaaa', 'aaaaaaa', 'aaaaaaaa', 'aaaaaaaaa', 'aaaaaaaaaa']
+['', 'b', 'c', 'a', 'cc', 'cb', 'bc', 'ab', 'ba', 'ac', 'ca', 'aa', 'bb', 'acb', 'caa', 'bab', 'aab', 'ccb', 'cba', 'bac', 'cca', 'ccc', 'aca', 'aac', 'acc', 'bca', 'bcb', 'aba', 'cac', 'bba', 'cab', 'baa', 'aaa', 'abb', 'cbb', 'cbc', 'bbc', 'bcc', 'bbb', 'abc', 'bccb', 'abbc', 'acaa', 'caab', 'bcca', 'cbcb', 'bbca', 'bcba', 'babb', 'cacb', 'abbb', 'ccac', 'aacb', 'baab', 'ccab', 'aaab', 'abac', 'ccbc', 'abca', 'abba', 'bacc', 'aaac', 'bbcb', 'acbc', 'bcbb', 'bbbc', 'aaba', 'bbcc', 'bcab', 'bcaa', 'baba', 'bacb', 'cbab', 'abab', 'acbb', 'bbac', 'acba', 'caca', 'cabc', 'aabb', 'bcac', 'cbcc', 'babc', 'aacc', 'cacc', 'accc', 'baca', 'cabb', 'aabc', 'aaca', 'abcc', 'bccc', 'acac', 'caba', 'caac', 'acca', 'bbab', 'cbac', 'baac', 'bcbc', 'accb', 'cbbc', 'cbca', 'acab', 'abcb', 'abaa', 'accab', 'acbac', 'abbcb', 'abaca', 'bacab', 'bcabc', 'bcacb', 'cabca', 'ababb', 'acaac', 'babcb', 'baabc', 'acabc', 'acaab', 'cbabc', 'cabbc', 'bacbc', 'ccabc', 'aabca', 'abbac', 'bcbac', 'abcaa', 'aacac', 'aabcb', 'cabcc', 'abcba', 'babab', 'bcaac', 'bbcab', 'cabab', 'abbca', 'bccab', 'abbbc', 'abacb', 'aacab', 'bcaab', 'abaab', 'bcbcc', 'bcbbc', 'babac', 'cbcab', 'abcca', 'bbcbc', 'bcabb', 'abcbb', 'acbab', 'bccbc', 'acbcc', 'bcaca', 'acbcb', 'bbabc', 'babca', 'bcbcb', 'babbc', 'abacc', 'bcacc', 'aabab', 'acaca', 'aabcc', 'caabc', 'acacb', 'babcc', 'bcaba', 'cacab', 'aabbc', 'abcbc', 'acaba', 'abbcc', 'ababa', 'accac', 'bcbab', 'accbc', 'bcbca', 'aaabc', 'cbcac', 'abccc', 'acbbc', 'abbab', 'cbcbc', 'aacbc', 'bbcac', 'cacac', 'abcab', 'cabac', 'bacac', 'aabac', 'bccac', 'acabb', 'cabcb', 'acbca', 'abccb', 'ababc', 'cacbc', 'abaac', 'acacc', 'abcac', 'aabcac', 'accabc', 'abcbcb', 'aababc', 'acabbc', 'acabcc', 'bcaabc', 'abcaab', 'ababab', 'acacac', 'bbcabc', 'acacbc', 'bcacac', 'abacbc', 'aacabc', 'abbcac', 'babcac', 'cabcab', 'abacac', 'bababc', 'abcabb', 'cabcbc', 'bcacbc', 'acbcac', 'ababbc', 'abcbac', 'cabcac', 'acbcbc', 'abcbcc', 'aabcab', 'abbabc', 'bcbabc', 'bcacab', 'ababac', 'abcacb', 'bcbcac', 'bcabca', 'abcaca', 'abcabc', 'abbcbc', 'abaabc', 'abcaba', 'acabca', 'bcabbc', 'babcbc', 'bcabac', 'ababca', 'abccac', 'bcabab', 'ababcb', 'abbcab', 'abcaac', 'abccbc', 'bcbcab', 'acbabc', 'bacabc', 'cacabc', 'cbcabc', 'abcbab', 'abccab', 'abcacc', 'abacab', 'bcabcc', 'ababcc', 'babcab', 'bcabcb', 'bccabc', 'abcbbc', 'acabac', 'acabab', 'acabcb', 'acacab', 'acbcab', 'acaabc', 'abcbca', 'aabcbc', 'cababc', 'bcbcbc', 'abbcabc', 'aabcabc', 'acbcabc', 'abcabab', 'bcabcac', 'abcbcab', 'abcabcb', 'abcabca', 'acababc', 'abccabc', 'ababcac', 'abcbcac', 'abcacab', 'abcaabc', 'acabcbc', 'babcabc', 'acacabc', 'acabcac', 'ababcbc', 'abcbabc', 'abacabc', 'bcabcab', 'abcacac', 'bcababc', 'cabcabc', 'abababc', 'abcabbc', 'abcbcbc', 'bcbcabc', 'ababcab', 'bcacabc', 'abcabac', 'abcacbc', 'abcabcc', 'acabcab', 'bcabcbc', 'abcabcbc', 'abcabcac', 'abcabcab', 'abcbcabc', 'bcabcabc', 'abcacabc', 'acabcabc', 'ababcabc', 'abcababc', 'abcabcabc']
+
+
+Process finished with exit code 0
